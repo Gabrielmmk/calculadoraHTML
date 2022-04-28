@@ -1,0 +1,62 @@
+
+body{
+    background-color: #210072;
+}
+
+#container{
+    border: solid black 2px;
+    width: 400px;
+    height: 508px;
+    margin: 200px auto;
+}
+
+#resultado{
+    border: solid black 2px;
+    height: 90px;
+    background-color: white;
+    border-bottom: none;
+}
+
+#resultado h2{
+    text-align: right;
+    height: 90px;
+    line-height: 120px;
+    margin: 0px 0px;
+
+
+}
+
+.numeros{
+    width: 300px;
+    float: left;
+}
+
+.numeros h1{
+    border: solid black 2px;
+    float: left;
+    width: 96px;
+    height: 100px;
+    margin: 0px 0px;
+    text-align: center;
+    line-height: 90px;
+    background-color: white;
+    cursor: pointer;
+}
+
+.operadores{
+    float: left;
+    width: 100px;
+    padding: 0px;
+}
+
+.operadores h1{
+    border: solid black 2px;
+    height: 100px;
+    margin: 0px 0px;
+    text-align: center;
+    line-height: 90px;
+    background-color: orange;
+    cursor: pointer;
+
+}
+
