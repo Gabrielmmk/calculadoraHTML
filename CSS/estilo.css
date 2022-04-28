@@ -6,7 +6,7 @@ body{
 #container{
     border: solid black 2px;
     width: 400px;
-    height: 508px;
+    height: 612px;
     margin: 200px auto;
 }
 
@@ -18,18 +18,17 @@ body{
 }
 
 #resultado h2{
-    text-align: right;
-    height: 90px;
-    line-height: 120px;
-    margin: 0px 0px;
-
-
+    margin-top: 35px;
+    width: 350px;
+    font-size: 1.3em;
+    padding: 5px;
 }
 
 .numeros{
     width: 300px;
     float: left;
 }
+
 
 .numeros h1{
     border: solid black 2px;
@@ -43,6 +42,9 @@ body{
     cursor: pointer;
 }
 
+#igual{
+    width: 196px;
+}
 .operadores{
     float: left;
     width: 100px;
@@ -59,4 +61,5 @@ body{
     cursor: pointer;
 
 }
+
 
